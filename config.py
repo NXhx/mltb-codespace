@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = "2"
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://hrkcc:kmzwa8@cluster0.vc8z5c3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
